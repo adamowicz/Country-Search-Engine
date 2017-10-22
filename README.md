@@ -15,4 +15,4 @@ Used:
 - API
 - Git
 
-![country-search-engine-all-devices](https://user-images.githubusercontent.com/25754728/31865375-7c294aec-b76e-11e7-9a1d-3bc5f7065ced.PNG)
+![country-search-engine-all-devices](https://user-images.githubusercontent.com/25754728/31865397-df9ffefe-b76e-11e7-8c0e-c76404e7de33.PNG)
